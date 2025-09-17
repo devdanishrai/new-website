@@ -1,3 +1,8 @@
 git add .
 git commit -m "anything write"
 git push
+
+
+
+
+git pull origin main

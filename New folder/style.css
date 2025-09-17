@@ -55,3 +55,11 @@ p{
     background-color: black;
     transition: .5s;
 }
+
+.sec-btn{
+    background-color: aqua;
+    border-radius: 10%;
+    padding: 15px 30px;
+    
+
+}
